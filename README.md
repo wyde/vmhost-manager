@@ -19,6 +19,10 @@ vmhost-manager
 ### Tools
 - kickstart file
 
+### How to Use
+- this scripts should be clone to the home directory of daemon user name: ops
+- user can cp kickstart file in ks_template to ./kickstart and make customized modification
+
 ## Changelog
 - 0.0.20171015
 
