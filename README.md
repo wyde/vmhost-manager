@@ -25,6 +25,7 @@ vmhost-manager
 
 ## Changelog
 - 0.0.20171015
+- 0.1.20171017
 
-## License
-MIT
+## TODO
+- multiple network interface
